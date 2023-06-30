@@ -1,4 +1,4 @@
-# Smart-Hut Home Switch Automation
+# Smart-Hut
 
 This repository contains a project for automating home switches using a website interface and a NodeMCU cluster. The project enables users to control and monitor various switches and appliances in their home remotely.
 
