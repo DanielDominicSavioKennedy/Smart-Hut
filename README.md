@@ -34,7 +34,7 @@ To set up the Smart-Hut Home Switch Automation project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/smart-hut-switch-automation.git
+   git clone https://github.com/DanielDominicSavioKennedy/Smart-Hut.git
    ```
 
 2. Change into the project directory:
